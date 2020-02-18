@@ -1,2 +1,2 @@
-# BlogCodeBase
-Code base for medium articles
+# Code base for medium blog posts
+https://medium.com/@sowmyayellapragada
